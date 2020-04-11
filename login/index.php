@@ -24,6 +24,10 @@ if(isset($_POST['login']) && !empty($_POST['username']) && !empty($_POST['passwo
 <!DOCTYPE html>
 <html>
     <head>
+        <title>#Site name#</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" type="text/css" href="asset.css" />
         <div class="head_div">
             <h1>Welcome to # Site name #</h1>
         </div>
